@@ -1,0 +1,28 @@
+ol {                                                        
+  margin-left: -40px;                          
+  margin-top: -20px;                                 /*ol kismini AYRI BAK .!*/
+  list-style-position: inside;
+}
+
+P {
+  color: red;
+}
+
+.note {
+  font-size: 20px;                                   /*$$$$$$$FONTU BOYLE AYARLARIZ. !*/
+}
+
+#id-selector-demo {
+  color: green;
+}
+
+li[value="4"]{                                        /*$$$$$$$$ SADECE VALUE DEGERİ KISMINA ULAŞMAK İÇİN*/
+
+  color: blue;
+  
+}
+
+* {
+  text-align: center;                                /*$$$$$$$  *ile sectiğimiz için herşeyi ortalar.*/
+
+}
